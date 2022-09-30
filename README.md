@@ -14,6 +14,8 @@ Tipos de Dados:
 - [x] float - real
 - [x] bool - booleano/lógico
 
+_____________________
+
 Operadores Aritméticos:
 
 ```python
@@ -25,6 +27,7 @@ print('Divisão inteira', 10 // 3)
 print('Potenciação', 2 ** 10)
 print('Módulo', 10 % 3)
 ```
+_____________________
 
 Operadores Lógicos(IF/ELSE):
 <br>
@@ -43,8 +46,20 @@ else:
     print ('Acesso Negado! Usuário ou senha inválidos')
 ```
 
+_____________________
 
+Função Length:
 
+```python
+usuario = input('Digite seu nome: ')
+qtde_caracteres = len(usuario)
+print(f'{usuario} sou nome tem {qtde_caracteres} caracteres')
+```
+ou
+```python
+usuario = input('Digite seu nome: ')
+print(f'{usuario} sou nome tem {len (usuario)} caracteres')
+```
 ## Instrutor
 
 - [Luis Guimaraes](https://www.linkedin.com/in/luisguima/)
