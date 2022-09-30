@@ -13,12 +13,17 @@ _____________________
 - [x] Tipos de Dados
 - [x] Operadores Aritméticos
 - [x] Operadores Lógicos(IF/ELSE)
-- [x] Função Length<br>
-**[2- Programação Procedural (Python Intermediário)](https://github.com/luchenrique/Python-Udemy#2-m%C3%B3dulo---programa%C3%A7%C3%A3o-procedural)**<br>
-**[3- Introdução à Programação Orientada a Objetos | POO)](https://github.com/luchenrique/Python-Udemy#3-m%C3%B3dulo---introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-orientada-a-objetos)**<br>
-**[4- os, datetime, sys, json, csv, selenium, pillow etc](https://github.com/luchenrique/Python-Udemy#4-m%C3%B3dulo---os-datetime-sys-json-csv-selenium-pillow-etc)**<br>
-**[5- PyQT5 - Interface gráfica no Python - GUI para Desktop](https://github.com/luchenrique/Python-Udemy#5-m%C3%B3dulo---pyqt5---interface-gr%C3%A1fica-no-python---gui-para-desktop)**<br>
-**[6- Bases de dados com Python - SQLite, MySQL e MariaDB](https://github.com/luchenrique/Python-Udemy#6-m%C3%B3dulo---bases-de-dados-com-python---sqlite-mysql-e-mariadb)**<br>
+- [x] Função Length
+
+**[2- Programação Procedural (Python Intermediário)](https://github.com/luchenrique/Python-Udemy#2-m%C3%B3dulo---programa%C3%A7%C3%A3o-procedural)**
+
+**[3- Introdução à Programação Orientada a Objetos | POO)](https://github.com/luchenrique/Python-Udemy#3-m%C3%B3dulo---introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-orientada-a-objetos)**
+
+**[4- os, datetime, sys, json, csv, selenium, pillow etc](https://github.com/luchenrique/Python-Udemy#4-m%C3%B3dulo---os-datetime-sys-json-csv-selenium-pillow-etc)**
+
+**[5- PyQT5 - Interface gráfica no Python - GUI para Desktop](https://github.com/luchenrique/Python-Udemy#5-m%C3%B3dulo---pyqt5---interface-gr%C3%A1fica-no-python---gui-para-desktop)**
+
+**[6- Bases de dados com Python - SQLite, MySQL e MariaDB](https://github.com/luchenrique/Python-Udemy#6-m%C3%B3dulo---bases-de-dados-com-python---sqlite-mysql-e-mariadb)**
 
 _____________________
 
