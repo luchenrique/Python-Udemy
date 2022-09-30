@@ -5,6 +5,8 @@ Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos n
 
 ## Projetos
 ✔️ Calculadora de IMC
+<br>
+⌛️ Validação de CPF
 
 _____________________
 
