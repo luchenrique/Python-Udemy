@@ -23,6 +23,8 @@ print('Potenciação', 2 ** 10)
 print('Módulo', 10 % 3)
 ```
 
+
+
 ## Instrutor
 
 - [Luis Guimaraes](https://www.linkedin.com/in/luisguima/)
