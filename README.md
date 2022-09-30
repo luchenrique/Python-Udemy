@@ -42,7 +42,7 @@ _____________________
 ## 1° Módulo - Lógica de Programação
 
 #### Tipos de Dados:
-- Datatypes que são aceitos no Python
+- Datatypes que são aceitos no Python.
 
 - [x] str - string 
 - [x] int- inteiros 
@@ -65,9 +65,7 @@ print('Módulo', 10 % 3)
 _____________________
 
 #### Operadores Lógicos (IF/ELSE):
-- Função que só será aceita caso a condição for verdadeira. Como no exemplo abaixo, o usuário será liberado somente se
-o 'user' e a 'password' fornecida forem iguais as que estão salvas no banco de dados -> 'user_bd' & 'password_bd', caso ontrário o usuário irá receber a mensagem 'Acesso Negado! Usuário ou senha inválidos'.
-
+- Função que só será aceita caso a condição for verdadeira. Como no exemplo abaixo, o usuário será liberado somente se o 'user' e a 'password' fornecida forem iguais as que estão salvas no banco de dados -> 'user_bd' & 'password_bd', caso ontrário o usuário irá receber a mensagem 'Acesso Negado! Usuário ou senha inválidos'.
 - [x] Validação de Login
 
 ```python
