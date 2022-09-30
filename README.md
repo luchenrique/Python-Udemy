@@ -25,13 +25,13 @@ _____________________
 
 **[6- Bases de dados com Python - SQLite, MySQL e MariaDB](https://github.com/luchenrique/Python-Udemy#6-m%C3%B3dulo---bases-de-dados-com-python---sqlite-mysql-e-mariadb)**
 
-**[7- Django no Python - Básico]()**
+**[7- Django no Python - Básico](https://github.com/luchenrique/Python-Udemy#7-m%C3%B3dulo---django-no-python---b%C3%A1sico)**
 
-**[8- Django no Python - Projeto Agenda]()**
+**[8- Django no Python - Projeto Agenda](https://github.com/luchenrique/Python-Udemy#8-m%C3%B3dulo---django-no-python---projeto-agenda)**
 
-**[9- Django com Python - Primeiro Deploy (Linux)]()**
+**[9- Django com Python - Primeiro Deploy (Linux)](https://github.com/luchenrique/Python-Udemy#9-m%C3%B3dulo---django-com-python---primeiro-deploy-linux)**
 
-**[10- Django com Python - Projeto Blog]()**
+**[10- Django com Python - Projeto Blog](https://github.com/luchenrique/Python-Udemy#10-m%C3%B3dulo---django-com-python---projeto-blog)**
 
 
 _____________________
