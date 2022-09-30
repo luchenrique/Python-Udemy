@@ -3,6 +3,9 @@
 Olá, estou aperfeiçoando meus conhecimento na linguagem Python. 
 Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos no curso a cima. 
 
+## Projetos
+- [x] Calculadora de IMC
+
 ## 1° Módulo - Lógica de Programação
 
 Tipos de dados
