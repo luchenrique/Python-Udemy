@@ -1,7 +1,7 @@
 # [Curso de Python do Básico ao Avançado - Udemy](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 
-👋🏽 Olá, estou aperfeiçoando meus conhecimento na linguagem Python. <br>
-Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos no curso a cima. 
+👋🏽 Olá, estou aperfeiçoando meus conhecimento na linguagem Python.🐍 <br>
+Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos no curso a cima. 📚
 
 ## Projetos
 ✔️ Calculadora de IMC
