@@ -13,7 +13,7 @@ _____________________
 - [x] Tipos de Dados
 - [x] Operadores Aritméticos
 - [x] Operadores Lógicos(IF/ELSE)
-- [x] Função Length
+- [x] Função Length<br>
 **[2- Programação Procedural (Python Intermediário)](https://github.com/luchenrique/Python-Udemy#2-m%C3%B3dulo---programa%C3%A7%C3%A3o-procedural)**<br>
 **[3- Introdução à Programação Orientada a Objetos | POO)](https://github.com/luchenrique/Python-Udemy#3-m%C3%B3dulo---introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-orientada-a-objetos)**<br>
 **[4- os, datetime, sys, json, csv, selenium, pillow etc](https://github.com/luchenrique/Python-Udemy#4-m%C3%B3dulo---os-datetime-sys-json-csv-selenium-pillow-etc)**<br>
