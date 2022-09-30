@@ -16,6 +16,7 @@ _____________________
 - [x] Operadores Aritméticos
 - [x] Operadores Lógicos(IF/ELSE)
 - [x] Função Length
+- [x] Função While
 
 **[2- Programação Procedural (Python Intermediário)](https://github.com/luchenrique/Python-Udemy#2-m%C3%B3dulo---programa%C3%A7%C3%A3o-procedural)**
 
@@ -41,6 +42,8 @@ _____________________
 ## 1° Módulo - Lógica de Programação
 
 Tipos de Dados:
+<br>
+- Datatypes que são aceitos no Python
 - [x] str - string 
 - [x] int- inteiros 
 - [x] float - real
@@ -51,9 +54,9 @@ _____________________
 Operadores Aritméticos:
 
 ```python
-print('Adição:', 10 + 10)
-print('Subtração:', 10 - 5)
-print('Multiplicação:', 10 * 10)
+print('Adição:', 10 + 10)  
+print('Subtração:', 10 - 5)  
+print('Multiplicação:', 10 * 10)  
 print('Divisão: ', 10 / 2)
 print('Divisão inteira', 10 // 3)
 print('Potenciação', 2 ** 10)
@@ -63,6 +66,9 @@ _____________________
 
 Operadores Lógicos (IF/ELSE):
 <br>
+- Função que só será iniciada caso a condição for verdadeira. Como no exemplo abaixo, o usuário será liberado somente se
+o 'user' e a 'password' fornecida forem iguais as que estão salvas no banco de dados -> 'user_bd' & 'password_bd'
+
 - [x] Validação de Login
 
 ```python
