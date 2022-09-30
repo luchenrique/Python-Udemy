@@ -44,6 +44,7 @@ _____________________
 #### Tipos de Dados:
 <br>
 - Datatypes que são aceitos no Python
+
 - [x] str - string 
 - [x] int- inteiros 
 - [x] float - real
@@ -65,7 +66,7 @@ print('Módulo', 10 % 3)
 _____________________
 
 #### Operadores Lógicos (IF/ELSE):
-<br>
+
 - Função que só será aceita caso a condição for verdadeira. Como no exemplo abaixo, o usuário será liberado somente se
 o 'user' e a 'password' fornecida forem iguais as que estão salvas no banco de dados -> 'user_bd' & 'password_bd', caso ontrário o usuário irá receber a mensagem 'Acesso Negado! Usuário ou senha inválidos'.
 
@@ -87,7 +88,6 @@ else:
 _____________________
 
 #### Função Length:
-<br>
 - Função que mostra quantos caracteres tem uma respectiva variável.
 
 ```python
@@ -104,7 +104,6 @@ print(f'{usuario} sou nome tem {len (usuario)} caracteres')
 _____________________
 
 #### Função While:
-<br>
 - Um estrutura de repetição que assim como a função IF necessiva de uma variável verdadeira que ela possa ser aceita.
 No exemplo abaixo para que a calculadora se inicie é necessável que o usuário forneça o valor 1, assim que o sistema irá ser iniciado possibilitando que o usuário possa fazer suas operações.
 
