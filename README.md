@@ -9,7 +9,11 @@ Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos n
 _____________________
 
 ## Módulos
-**[1- Lógica de Programação (Python Básico)](https://github.com/luchenrique/Python-Udemy#1-m%C3%B3dulo---l%C3%B3gica-de-programa%C3%A7%C3%A3o)**<br>
+**[1- Lógica de Programação (Python Básico)](https://github.com/luchenrique/Python-Udemy#1-m%C3%B3dulo---l%C3%B3gica-de-programa%C3%A7%C3%A3o)**
+- [x] Tipos de Dados
+- [x] Operadores Aritméticos
+- [x] Operadores Lógicos(IF/ELSE)
+- [x] Função Length
 **[2- Programação Procedural (Python Intermediário)](https://github.com/luchenrique/Python-Udemy#2-m%C3%B3dulo---programa%C3%A7%C3%A3o-procedural)**<br>
 **[3- Introdução à Programação Orientada a Objetos | POO)](https://github.com/luchenrique/Python-Udemy#3-m%C3%B3dulo---introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-orientada-a-objetos)**<br>
 **[4- os, datetime, sys, json, csv, selenium, pillow etc](https://github.com/luchenrique/Python-Udemy#4-m%C3%B3dulo---os-datetime-sys-json-csv-selenium-pillow-etc)**<br>
