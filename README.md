@@ -10,6 +10,11 @@ _____________________
 
 ## Módulos
 **[1- Lógica de Programação (Python Básico)](https://github.com/luchenrique/Python-Udemy#1-m%C3%B3dulo---l%C3%B3gica-de-programa%C3%A7%C3%A3o)**
+**[2- Programação Procedural (Python Intermediário)]()**
+**[3- Introdução à Programação Orientada a Objetos | POO)]()**
+**[4- os, datetime, sys, json, csv, selenium, pillow etc]()**
+**[5- PyQT5 - Interface gráfica no Python - GUI para Desktop]()**
+**[6- Bases de dados com Python - SQLite, MySQL e MariaDB]()**
 
 _____________________
 
@@ -67,6 +72,17 @@ ou
 usuario = input('Digite seu nome: ')
 print(f'{usuario} sou nome tem {len (usuario)} caracteres')
 ```
+
+## 2° Módulo - Programação Procedural
+
+## 3° Módulo - Introdução à Programação Orientada a Objetos
+
+## 4° Módulo - os, datetime, sys, json, csv, selenium, pillow etc
+
+## 5° Módulo - PyQT5 - Interface gráfica no Python - GUI para Desktop
+
+## 6° Módulo - Bases de dados com Python - SQLite, MySQL e MariaDB
+
 ## Instrutor
 
 - [Luis Guimaraes](https://www.linkedin.com/in/luisguima/)
