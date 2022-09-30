@@ -25,6 +25,15 @@ _____________________
 
 **[6- Bases de dados com Python - SQLite, MySQL e MariaDB](https://github.com/luchenrique/Python-Udemy#6-m%C3%B3dulo---bases-de-dados-com-python---sqlite-mysql-e-mariadb)**
 
+**[7- Django no Python - Básico]()**
+
+**[8- Django no Python - Projeto Agenda]()**
+
+**[9- Django com Python - Primeiro Deploy (Linux)]()**
+
+**[10- Django com Python - Projeto Blog]()**
+
+
 _____________________
 
 ## 1° Módulo - Lógica de Programação
@@ -91,6 +100,15 @@ print(f'{usuario} sou nome tem {len (usuario)} caracteres')
 ## 5° Módulo - PyQT5 - Interface gráfica no Python - GUI para Desktop
 
 ## 6° Módulo - Bases de dados com Python - SQLite, MySQL e MariaDB
+
+## 7° Módulo - Django no Python - Básico
+
+## 8° Módulo - Django no Python - Projeto Agenda
+
+## 9° Módulo - Django com Python - Primeiro Deploy (Linux)
+
+## 10° Módulo - Django com Python - Projeto Blog
+
 
 ## Instrutor
 
