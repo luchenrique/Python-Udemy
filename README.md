@@ -5,7 +5,7 @@ Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos n
 
 ## Instrutor
 
-![Luis Guimaraes]<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEdYZ4ebLTjWQ/profile-displayphoto-shrink_800_800/0/1659087636407?e=1669852800&v=beta&t=_egQKwTRh4kTgscZHBDnrpnyxYmDN-rCrdbXavo1JSE" min-width="200px" max-width="300px" width="400px" align="left">
+![Luis Guimaraes]<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEdYZ4ebLTjWQ/profile-displayphoto-shrink_800_800/0/1659087636407?e=1669852800&v=beta&t=_egQKwTRh4kTgscZHBDnrpnyxYmDN-rCrdbXavo1JSE" min-width="200px" max-width="200px" width="200px" align="left">
 
 | :---: 
 Luis Guimaraes
