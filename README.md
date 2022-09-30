@@ -9,8 +9,8 @@ Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos n
 ## 1° Módulo - Lógica de Programação
 
 Tipos de dados 
-- [x] str - string <\n>
-- [x] int- inteiros <\n>
+- [x] str - string 
+- [x] int- inteiros 
 - [x] float - real
 - [x] bool - booleano/lógico
 
