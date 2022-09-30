@@ -7,7 +7,7 @@ Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos n
 ✔️ Calculadora de IMC
 
 ## Módulos
-**[1- Lógica de Programação (Python Básico)](https://github.com/luchenrique/Python-Udemy#1-m%C3%B3dulo---l%C3%B3gica-de-programa%C3%A7%C3%A3o)
+**[1- Lógica de Programação (Python Básico)](https://github.com/luchenrique/Python-Udemy#1-m%C3%B3dulo---l%C3%B3gica-de-programa%C3%A7%C3%A3o)**
 
 ## 1° Módulo - Lógica de Programação
 
