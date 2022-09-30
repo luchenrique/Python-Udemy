@@ -9,9 +9,13 @@ Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos n
 ## 1° Módulo - Lógica de Programação
 
 Tipos de dados 
-✔️ str - string <\n>
-✔️ int- inteiros <\n>
+<br>
+✔️ str - string 
+<br>
+✔️ int- inteiros 
+<br>
 ✔️ float - real
+<br>
 ✔️ bool - booleano/lógico
 
 Operadores Aritméticos
