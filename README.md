@@ -41,7 +41,7 @@ _____________________
 
 ## 1° Módulo - Lógica de Programação
 
-Tipos de Dados:
+#### Tipos de Dados:
 <br>
 - Datatypes que são aceitos no Python
 - [x] str - string 
@@ -51,7 +51,7 @@ Tipos de Dados:
 
 _____________________
 
-Operadores Aritméticos:
+#### Operadores Aritméticos:
 
 ```python
 print('Adição:', 10 + 10)  
@@ -64,9 +64,9 @@ print('Módulo', 10 % 3)
 ```
 _____________________
 
-Operadores Lógicos (IF/ELSE):
+#### Operadores Lógicos (IF/ELSE):
 <br>
-Função que só será aceita caso a condição for verdadeira. Como no exemplo abaixo, o usuário será liberado somente se
+- Função que só será aceita caso a condição for verdadeira. Como no exemplo abaixo, o usuário será liberado somente se
 o 'user' e a 'password' fornecida forem iguais as que estão salvas no banco de dados -> 'user_bd' & 'password_bd', caso ontrário o usuário irá receber a mensagem 'Acesso Negado! Usuário ou senha inválidos'.
 
 - [x] Validação de Login
@@ -86,9 +86,9 @@ else:
 
 _____________________
 
-Função Length:
+#### Função Length:
 <br>
-Função que mostra quantos caracteres tem uma respectiva variável.
+- Função que mostra quantos caracteres tem uma respectiva variável.
 
 ```python
 usuario = input('Digite seu nome: ')
@@ -103,9 +103,9 @@ print(f'{usuario} sou nome tem {len (usuario)} caracteres')
 
 _____________________
 
-Função While:
+#### Função While:
 <br>
-Um estrutura de repetição que assim como a função IF necessiva de uma variável verdadeira que ela possa ser aceita.
+- Um estrutura de repetição que assim como a função IF necessiva de uma variável verdadeira que ela possa ser aceita.
 No exemplo abaixo para que a calculadora se inicie é necessável que o usuário forneça o valor 1, assim que o sistema irá ser iniciado possibilitando que o usuário possa fazer suas operações.
 
 ```python
