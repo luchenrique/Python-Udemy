@@ -3,12 +3,6 @@
 👋🏽 Olá, estou aperfeiçoando meus conhecimento na linguagem Python.🐍 <br>
 Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos no curso a cima. 📚
 
-## Instrutor
-
-- [Luis Guimaraes](https://www.linkedin.com/in/luisguima/)
-
-_____________________
-
 ## Projetos
 ✔️ Calculadora de IMC
 
@@ -115,3 +109,8 @@ print(f'{usuario} sou nome tem {len (usuario)} caracteres')
 
 ## 10° Módulo - Django com Python - Projeto Blog
 
+_____________________
+
+## Instrutor
+
+- [Luis Guimaraes](https://www.linkedin.com/in/luisguima/)
