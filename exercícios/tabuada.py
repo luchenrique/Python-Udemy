@@ -1,3 +1,4 @@
+
 x = int(input('Digite um número para saber a tabuada: '))
 cont = 0
 
