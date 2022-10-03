@@ -14,7 +14,7 @@ _____________________
 **[1- Lógica de Programação (Python Básico)](https://github.com/luchenrique/Python-Udemy#1-m%C3%B3dulo---l%C3%B3gica-de-programa%C3%A7%C3%A3o)**
 - [x] Tipos de Dados
 - [x] Operadores Aritméticos
-- [x] Operadores Lógicos(IF/ELSE)
+- [x] Operadores Lógicos (IF/ELSE)
 - [x] Função Length
 - [x] Função While
 
