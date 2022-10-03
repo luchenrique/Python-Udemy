@@ -17,6 +17,7 @@ _____________________
 - [x] Operadores Lógicos (IF/ELSE)
 - [x] Função Length
 - [x] Função While
+- [x] Estrutura de Repetição (For in)
 
 **[2- Programação Procedural (Python Intermediário)](https://github.com/luchenrique/Python-Udemy#2-m%C3%B3dulo---programa%C3%A7%C3%A3o-procedural)**
 
@@ -132,6 +133,22 @@ while x1 == 1:
         print('\n\nO programa será encerrado! \n\nPrograma Encerrado!!')
     else:
         print('Valor inválido')
+```
+
+_____________________
+
+#### Estrutura de Repetição (For in):
+- Outra estrutura de repetição porém mais prática que a função while. O exemplo abaixo é de uma contagem regressiva de 10 minutos, os valores são definicos na função 'range' e vão caindo de 1 em 1.
+
+```python
+# Função range(start=0, stop, step=1)
+
+seg = 59
+min = 9
+print('10:00')
+for min in range (9, -1, -1):
+    for seg in range (59, -1, -1):
+        print(f'{min:02d}:{seg:02d}')
 ```
 
 ## 2° Módulo - Programação Procedural
