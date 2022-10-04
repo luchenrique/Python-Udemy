@@ -151,25 +151,43 @@ for min in range (9, -1, -1):
         print(f'{min:02d}:{seg:02d}')
 ```
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ## 2° Módulo - Programação Procedural
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 3° Módulo - Introdução à Programação Orientada a Objetos
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ## 4° Módulo - os, datetime, sys, json, csv, selenium, pillow etc
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 5° Módulo - PyQT5 - Interface gráfica no Python - GUI para Desktop
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ## 6° Módulo - Bases de dados com Python - SQLite, MySQL e MariaDB
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 7° Módulo - Django no Python - Básico
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ## 8° Módulo - Django no Python - Projeto Agenda
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 9° Módulo - Django com Python - Primeiro Deploy (Linux)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ## 10° Módulo - Django com Python - Projeto Blog
 
-_____________________
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## Instrutor
 
