@@ -8,7 +8,7 @@ Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos n
 <br>
 ⌛️ Validação de CPF
 
-_____________________
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## Módulos
 **[1- Lógica de Programação (Python Básico)](https://github.com/luchenrique/Python-Udemy#1-m%C3%B3dulo---l%C3%B3gica-de-programa%C3%A7%C3%A3o)**
@@ -38,7 +38,7 @@ _____________________
 **[10- Django com Python - Projeto Blog](https://github.com/luchenrique/Python-Udemy#10-m%C3%B3dulo---django-com-python---projeto-blog)**
 
 
-_____________________
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 1° Módulo - Lógica de Programação
 
