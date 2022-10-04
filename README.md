@@ -3,6 +3,8 @@
 👋🏽 Olá, estou aperfeiçoando meus conhecimento na linguagem Python.🐍 <br>
 Esse é um repositório onde irei colocar alguns projetos e taferas aprendidos no curso a cima. 📚
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ## Projetos
 ✔️ Calculadora de IMC
 <br>
