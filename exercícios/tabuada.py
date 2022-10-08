@@ -1,4 +1,3 @@
-
 x = int(input('Digite um número para saber a tabuada: '))
 cont = 0
 
@@ -12,3 +11,10 @@ else:
     print('')
     print('Tabuada Finalizada')
     print('')
+
+# OU
+
+x = int(input('Digite um número para saber a tabuada: '))
+
+for valor in range (0,11,1):
+    print(f'{x} X {valor} = {valor*x}')
